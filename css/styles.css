@@ -1,0 +1,177 @@
+/***** TAG SELEECTORS *****/
+
+body {
+  color: #2a3d3e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Italianno', cursive;
+  font-size: 7.5rem;
+  color: #4D8185;
+  margin: 50px auto 0;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  color: #4D8185;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  color: #4D8185;
+}
+
+h4 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  margin: 0;
+  color: #4D8185;
+}
+
+hr {
+  border-color: #D1A3BF;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+a:hover {
+  color:#D1A3BF;
+}
+
+/***** CLASS SELECTORS *****/
+
+.top-container {
+  background-color: #8FCDD1;
+  position: relative;
+}
+
+.cloud-1 {
+  position: relative;
+  left: 300px;
+  top: 300px;
+}
+
+.cloud-2 {
+  position: absolute;
+  left: 300px;
+}
+
+.middle-container {
+  margin: auto;
+}
+
+.profile {
+  position: relative;
+  top: 100px;
+  margin: 10px auto 50px auto;
+}
+
+.pfp {
+width: 10%;
+}
+
+.hobbies {
+  margin: 175px auto 100px auto;
+}
+
+.hobby-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.mouse {
+  width: 25%;
+  float: right;
+}
+
+.hobbies-row {
+  margin: 50px auto 50px auto;
+}
+
+.pen {
+width: 25%;
+float: left;
+}
+
+.contact-me {
+  margin: 50px auto 50px auto
+}
+
+.touch {
+  margin: 40px auto;
+}
+
+.hearfrom {
+  margin: 40px auto;
+}
+
+.contactp {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #8FCDD1;
+  padding: 50px 0 20px;
+}
+
+.btn {
+  background: #D1A3BF;
+  background-image: -webkit-linear-gradient(top, #D1A3BF, #b8709c);
+  background-image: -moz-linear-gradient(top, #D1A3BF, #b8709c);
+  background-image: -ms-linear-gradient(top, #D1A3BF, #b8709c);
+  background-image: -o-linear-gradient(top, #D1A3BF, #b8709c);
+  background-image: linear-gradient(to bottom, #D1A3BF, #b8709c);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #ebd6e2;
+  background-image: -webkit-linear-gradient(top, #ebd6e2, #FCFEFA);
+  background-image: -moz-linear-gradient(top, #ebd6e2, #FCFEFA);
+  background-image: -ms-linear-gradient(top, #ebd6e2, #FCFEFA);
+  background-image: -o-linear-gradient(top, #ebd6e2, #FCFEFA);
+  background-image: linear-gradient(to bottom, #ebd6e2, #FCFEFA);
+  text-decoration: none;
+}
+
+.footer-link {
+  color: #2a3d3e;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.copywrite {
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.flaticon {
+  color: #2a3d3e;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+/***** ID SELECTORS *****/
